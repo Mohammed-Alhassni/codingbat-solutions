@@ -1,4 +1,4 @@
-package src;
+package src.Warmup2;
 
 public class stringBits {
     public String stringBits(String str) {

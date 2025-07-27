@@ -1,4 +1,4 @@
-package src;
+package src.Warmup2;
 
 public class stringTimes {
     public String stringTimes(String str, int n) {

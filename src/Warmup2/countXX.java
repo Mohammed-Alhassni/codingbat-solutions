@@ -1,4 +1,4 @@
-package src;
+package src.Warmup2;
 
 public class countXX {
     int countXX(String str) {

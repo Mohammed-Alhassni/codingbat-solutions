@@ -1,4 +1,4 @@
-package src;
+package src.Warmup2;
 
 public class last2 {
     public int last2(String str) {
