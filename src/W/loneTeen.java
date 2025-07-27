@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class loneTeen {
     public boolean loneTeen(int a, int b) {

@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class max1020 {
     public int max1020(int a, int b) {

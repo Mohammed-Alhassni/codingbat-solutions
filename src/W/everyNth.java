@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class everyNth {
     public String everyNth(String str, int n) {

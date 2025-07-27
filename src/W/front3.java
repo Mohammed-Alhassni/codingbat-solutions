@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class front3 {
     public String front3(String str) {

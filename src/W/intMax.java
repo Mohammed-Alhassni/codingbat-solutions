@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class intMax {
     public int intMax(int a, int b, int c) {

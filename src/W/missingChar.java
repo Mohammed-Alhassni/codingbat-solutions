@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class missingChar {
     public String missingChar(String str, int n) {

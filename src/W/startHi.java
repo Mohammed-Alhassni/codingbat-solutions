@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class startHi {
     public boolean startHi(String str) {

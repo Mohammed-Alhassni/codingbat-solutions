@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class lastDigit {
     public boolean lastDigit(int a, int b) {

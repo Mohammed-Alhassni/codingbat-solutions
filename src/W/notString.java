@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class notString {
     public String notString(String str) {

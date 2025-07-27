@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class monkeyTrouble {
     public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {

@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class or35 {
     public boolean or35(int n) {
