@@ -1,4 +1,4 @@
-package src;
+package src.Warmup2;
 
 public class stringSplosion {
     public String stringSplosion(String str) {
