@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class icyHot {
     public boolean icyHot(int temp1, int temp2) {

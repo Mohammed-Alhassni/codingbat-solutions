@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class stringE {
     public boolean stringE(String str) {

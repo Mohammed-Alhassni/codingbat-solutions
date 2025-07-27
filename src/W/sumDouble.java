@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class sumDouble {
     public int sumDouble(int a, int b) {

@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class mixStart {
     public boolean mixStart(String str) {

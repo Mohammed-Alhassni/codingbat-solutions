@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class in1020 {
     public boolean in1020(int a, int b) {

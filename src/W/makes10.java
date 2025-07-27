@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class makes10 {
     public boolean makes10(int a, int b) {

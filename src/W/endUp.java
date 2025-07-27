@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class endUp {
     public String endUp(String str) {

@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class startOz {
     public String startOz(String str) {

@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class posNeg {
     public boolean posNeg(int a, int b, boolean negative) {

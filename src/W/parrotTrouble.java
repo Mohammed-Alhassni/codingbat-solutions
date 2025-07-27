@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class parrotTrouble {
     public boolean parrotTrouble(boolean talking, int hour) {

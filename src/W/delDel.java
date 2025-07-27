@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class delDel {
     public String delDel(String str) {

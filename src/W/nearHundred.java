@@ -1,4 +1,4 @@
-package src;
+package src.W;
 
 public class nearHundred {
     public boolean nearHundred(int n) {
