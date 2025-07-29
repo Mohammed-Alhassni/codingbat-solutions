@@ -7,7 +7,7 @@ public class makeLast {
             if (i==newArr.length-1){
                 newArr[i]= nums[nums.length-1];
             }else {
-                newArr[i]= 0;
+                newArr[i] = 0;
             }
         }
         return newArr;
